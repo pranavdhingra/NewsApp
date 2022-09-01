@@ -1,0 +1,17 @@
+// !this.state.loading &&
+
+
+ {/* <div className="container d-flex justify-content-between">
+          <button disabled={this.state.page <= 1} type='button' className='btn btn-dark' onClick={this.handlePrevClick}>&larr;Previous</button>
+          <button disabled={this.state.page + 1 > Math.ceil(this.state.totalResults / this.props.pageSize)} type='button' className='btn btn-dark' onClick={this.handleNextClick}>Next&rarr;</button>
+        </div> */}
+
+          // handleNextClick = async () => {
+  //   this.setState({ page: this.state.page + 1 });
+  //   this.updateNews();
+  // }
+
+  // handlePrevClick = async () => {
+  //   this.setState({ page: this.state.page - 1 });
+  //   this.updateNews();
+  // }
